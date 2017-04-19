@@ -69,3 +69,7 @@ C:\Users\Moncure306\documents\visual studio 2017\Projects\ContosoUniversity\Cont
 C:\Users\Moncure306\documents\visual studio 2017\Projects\ContosoUniversity\ContosoUniversity\bin\EntityFramework.SqlServer.dll
 C:\Users\Moncure306\documents\visual studio 2017\Projects\ContosoUniversity\ContosoUniversity\bin\EntityFramework.xml
 C:\Users\Moncure306\documents\visual studio 2017\Projects\ContosoUniversity\ContosoUniversity\bin\EntityFramework.SqlServer.xml
+C:\Users\Moncure306\documents\visual studio 2017\Projects\ContosoUniversity\ContosoUniversity\bin\PagedList.dll
+C:\Users\Moncure306\documents\visual studio 2017\Projects\ContosoUniversity\ContosoUniversity\bin\PagedList.Mvc.dll
+C:\Users\Moncure306\documents\visual studio 2017\Projects\ContosoUniversity\ContosoUniversity\bin\PagedList.xml
+C:\Users\Moncure306\documents\visual studio 2017\Projects\ContosoUniversity\ContosoUniversity\bin\PagedList.Mvc.xml
